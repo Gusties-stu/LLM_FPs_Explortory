@@ -1,0 +1,56 @@
+{
+    "All Questions": {
+        "Overall Results": {
+            "Average": "0.498028812229938",
+            "Standard Dev": "0.38780125211442573"
+        },
+        "Level 0": {
+            "Average": "0.4868136211513572",
+            "Standard Dev": "0.3900233675485504"
+        },
+        "Level 2": {
+            "Average": "0.5035888114738843",
+            "Standard Dev": "0.38435834923664935"
+        },
+        "Level 4": {
+            "Average": "0.5034506906944114",
+            "Standard Dev": "0.3888049111906032"
+        }
+    },
+    "Standard Questions": {
+        "Overall Results": {
+            "Average": "0.49112264777620906",
+            "Standard Dev": "0.39314140432345407"
+        },
+        "Level 0": {
+            "Average": "0.48808121403859067",
+            "Standard Dev": "0.3915872380455571"
+        },
+        "Level 2": {
+            "Average": "0.49418372339156175",
+            "Standard Dev": "0.3943603684069862"
+        },
+        "Level 4": {
+            "Average": "0.49107323756016774",
+            "Standard Dev": "0.39343432844879533"
+        }
+    },
+    "Specific Questions": {
+        "Overall Results": {
+            "Average": "0.518448481167646",
+            "Standard Dev": "0.37081156490297995"
+        },
+        "Level 0": {
+            "Average": "0.4829250655273626",
+            "Standard Dev": "0.38516029050153455"
+        },
+        "Level 2": {
+            "Average": "0.5312666421161478",
+            "Standard Dev": "0.3518291619963661"
+        },
+        "Level 4": {
+            "Average": "0.5389384933869985",
+            "Standard Dev": "0.3729448270510329"
+        }
+    }
+}
